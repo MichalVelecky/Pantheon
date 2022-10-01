@@ -35,13 +35,4 @@ public class Stopwatch {
         long timeOfStop = System.currentTimeMillis();
         passedTime = passedTime + (timeOfStop - timeOfStart);
     }
-
-    public long getPassedTime() {
-        if (isRunning) {
-            long timeOfStop = System.currentTimeMillis();
-            return passedTime + (timeOfStop - timeOfStart);
-        } else {
-            return passedTime;
-        }
-    }
 }
