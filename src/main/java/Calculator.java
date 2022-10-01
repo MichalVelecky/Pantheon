@@ -18,8 +18,7 @@ public class Calculator {
 
         int selection;
 
-
-            System.out.print("Choose method for multiplication " +
+        System.out.print("Choose method for multiplication " +
                     "(press 1 for input data as cmd arguments, or press 2 for input data from console: ");
             selection = scanner.nextInt();
 
