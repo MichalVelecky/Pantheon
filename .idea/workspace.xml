@@ -46,6 +46,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -149,7 +150,7 @@
       <workItem from="1664444539906" duration="2391000" />
       <workItem from="1664448635380" duration="10391000" />
       <workItem from="1664524518617" duration="21882000" />
-      <workItem from="1664637564650" duration="995000" />
+      <workItem from="1664637564650" duration="2040000" />
     </task>
     <task id="LOCAL-00001" summary="Pantheon_homework">
       <created>1664637682309</created>
